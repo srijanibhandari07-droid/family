@@ -1,0 +1,6 @@
+{
+  "name": "Between Us",
+  "description": "Understand the invisible pressure behind family arguments. A neutral systems-thinking translator between family members.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
